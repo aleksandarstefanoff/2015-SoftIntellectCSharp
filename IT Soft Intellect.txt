@@ -1,0 +1,66 @@
+Въведение в програмирането:
+
+Георги
+Чани
+Лектор: Ивайло Бабалев ivaylo.babalev@gmail.com
+
+Състуденти:
+Мила, Момчил (рижата брада), Спасимира, Жоро
+
+visual studio
+
+password: softintellect2015academy
+
+Да търсиш в google !!!
+
+Трябва да можеш:
+Front-end Developer - разработва user интерфейс какво вижда клиента
+Back-end Developer - разработва случването
+Database Developer - база данни
+
+
+Като започнеш в малка фирма по-бързо навлизаш в естеството на работа.
+сайтът е web приложение
+
+След втория курс -> за 6 месеца да започнеш работа
+след 3-4 години да стане free lancer
+облак - сървър който ти не виждаш
+
+регистрация
+https://github.com - да проверя в google какво точно представлява
+create repository
+
+ДОМАШНА РАБОТА
+
+visual studio 2015 community ДА ИНСТАЛИРАМ
+
+Да изпратя линка на моето repository на mail-а student ... intelekt
+
+
+
+
+
+
+ivaylo.babalev@gmail.com 
+
+https://github.com/AleksandarDinkovStefanov/ADStefanov-homework
+
+
+
+Academy-Soft-Intellect/Programming-Introduction-CSharp-Course
+
+
+
+(https://github.com/AleksandarDinkovStefanov/ADStefanov-homework.git)
+
+
+
+Когато правиш домашно:
+https://github.com/
+натискаме котката
+
+
+в създадената папка:
+
+
+

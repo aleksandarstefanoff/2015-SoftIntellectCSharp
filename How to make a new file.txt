@@ -1,0 +1,22 @@
+File/New/Project/в surch-а горе вдясно пишем blank (за 
+празен документ),избираме Blank Solution/
+задаваме име в Name (Homework zanyatie 3), и в Location 
+Browse, избираме папката за домашни (ADStefanov-homework)/ОК.
+(което създава в папка Homework zanyatie 3 документ Homework zanyatie 3)
+Отваря се Visual Studio, в Solution Explorer, виждаме Solution,
+с името, което сме задали (Homework zanyatie 3)
+/десен бутон (върху Solution) /Add/New project/
+избираме Visual C#, избираме Console Application, избираме име (zad1)/OK 
+(което създава в папка Homework zanyatie 3 папка Zad1)
+(за създаване на нова папка можем да отворим папка Homework zanyatie
+документа папка Homework zanyatie и да го стартираме и повтаряме
+"Отваря се Visual Studio, в Solution Explorer, виждаме Solution,
+с името, което сме задали (Homework zanyatie 3)
+/десен бутон (върху Solution) /Add/New project/
+избираме Visual C#, избираме име (zad2), избираме Console Application/OK )
+
+
+За да ни е активна текущата задача в Solution-а за всяко НОВО решение: (прави се веднъж завинаги)
+Tools/Options/Projects & Solutions/Build & Run/Чекваме For new 
+solutions use the currently selected project.
+
