@@ -1,6 +1,0 @@
-C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe.config
-C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe
-C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.pdb
-C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.csprojResolveAssemblyReference.cache
-C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.exe
-C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.pdb
